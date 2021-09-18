@@ -3,5 +3,5 @@
 
 
 - 🔭 Angular, ReactJS, React Native, NodeJS
-- 📫 https://wscld.github.io/portfolio/
+- 📫 https://wscld.github.io/me/
 - ⚡  https://medium.com/@wscld 
